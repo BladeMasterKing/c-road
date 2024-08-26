@@ -1,0 +1,57 @@
+{
+  "applyAmount": 500000,
+  "applyId": 240821000000114,
+  "approvalId": 0,
+  "companyId": 240820000000004,
+  "companyName": "龙州县小玉米茶饮店",
+  "contentModify": 0,
+  "contractCode": "",
+  "contractId": 240820000000003,
+  "contractType": 11,
+  "customContract": 0,
+  "firstPartyId": 240820000000004,
+  "firstPartyName": "龙州县小玉米茶饮店",
+  "hasInvoice": 1,
+  "optType": -1,
+  "payeeAccount": "622123102121245432",
+  "payeeBank": "中国银行",
+  "payeeName": "测试小狗",
+  "services": [
+    {
+      "expendAmount": 0,
+      "receiveAmount": 0,
+      "refundAmount": 0,
+      "refundedAmount": 0,
+      "relateStatus": 0,
+      "serviceAmount": 0,
+      "serviceId": 240820000000281,
+      "serviceName": "代理记账",
+      "status": 7
+    },
+    {
+      "expendAmount": 0,
+      "receiveAmount": 500000,
+      "refundAmount": 500000,
+      "refundedAmount": 0,
+      "relateStatus": 1,
+      "serviceAmount": 26000000,
+      "serviceId": 240820000000120,
+      "serviceName": "承装（修、试）电力设施许可证新办,二级",
+      "status": 1
+    },
+    {
+      "expendAmount": 0,
+      "receiveAmount": 500000,
+      "refundAmount": 0,
+      "refundedAmount": 0,
+      "relateStatus": 0,
+      "serviceAmount": 25000000,
+      "serviceId": 240820000000118,
+      "serviceName": "承装（修、试）电力设施许可证新办,二级",
+      "status": 0
+    }
+  ],
+  "standAmount": 50000000,
+  "submitRemark": "多下了一个服务",
+  "totalAmount": 51000000
+}
